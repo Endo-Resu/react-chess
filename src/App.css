@@ -26,10 +26,16 @@
     align-items: center;
 }
 
+.cell img {
+    width: 48px;
+    height: 48px;
+    position: relative;
+}
+
 .black {
     background-color: deepskyblue;
 }
 
 .white {
-    background-color: lightgoldenrodyellow;
+    background-color: darkorange;
 }
